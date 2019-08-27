@@ -1,6 +1,6 @@
 class Person
 def talk
-puts "Hello World"
+#puts "Hello World"
 end
 def talk
   puts "The Person is walking"
